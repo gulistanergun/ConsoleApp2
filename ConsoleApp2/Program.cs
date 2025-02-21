@@ -1,6 +1,6 @@
 ﻿
 
-/*
+
 // 1. SORU 
 Console.Write("Kontrol edilecek sayıyı giriniz: ");
 double sayi = Convert.ToDouble(Console.ReadLine());
@@ -18,7 +18,7 @@ else
 {
     Console.WriteLine("Kontrol edilen sayı sıfırdır.");
 }
-*/
+
 ///////////////////////////////////////////////////////////////////////////////////////////
 /*
 // 2. SORU 
@@ -142,10 +142,11 @@ Console.WriteLine("En büyük sayı: " + enBuyuk);
 
 // 5. SORU 
 
+/*
 Console.Write("Kontrol edilecek şifreyi girin: ");
 string sifre = Console.ReadLine();
 
-//koşul kontrolleri
+//koşul kontrollerib 
 bool uzunlukUygunMu = sifre.Length >= 8;
 bool buyukHarfVarMi = false;
 bool ozelKarakterVarMi = false;
@@ -176,7 +177,7 @@ else
 
 
 
-
+*/
 
 
 
